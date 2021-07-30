@@ -4,7 +4,7 @@ Goal of this repository is doing a deep dive and analysis on as many types of Ma
 1. Linear and Logistic Regression
 2. RandomForest
 3. KMeans Clustering
-4. XGBoost, LightGBM
-5. SVM
+4. XGBoost and LightGBM
+5. SVM and SGD
 6. NeuralNetwork (PyTorch)
 7. Ensembling using PyCaret Optimization
