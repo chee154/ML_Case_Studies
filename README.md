@@ -10,4 +10,4 @@ Goal of this repository is doing a deep dive and analysis on as many types of Ma
 7. Ensembling using PyCaret Optimization
 
 Other Contributers include:
-Neil Benson, Adam Canton, and Edward Roske
+Neil Benson, Adam Canton and Edward Roske
