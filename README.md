@@ -1,6 +1,6 @@
 # ML_Case_Studies
 
-Goal of this repository is doing a deep dive and analysis on as many types of Machine Learning models, includes the following:
+Goal of this repository is doing a deep dive and analysis on many types of Machine Learning models, includes the following:
 1. Linear and Logistic Regression
 2. RandomForest and Naive Bayes Classifiers
 3. KMeans Clustering
