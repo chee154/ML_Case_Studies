@@ -6,5 +6,5 @@ Goal of this repository is doing a deep dive and analysis on as many types of Ma
 3. KMeans Clustering
 4. XGBoost and LightGBM
 5. SVM and SGD
-6. Neural Network (PyTorch)
+6. Dense Neural Networks (PyTorch)
 7. Ensembling using PyCaret Optimization
